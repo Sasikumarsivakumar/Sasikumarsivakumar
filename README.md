@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Sasikumarsivakumar
-- 👀 I’m interested in software developer.
+- 👋 Hi, I’m @Sasikumar S
+- 👀 I’m interested in Developer.
 - 🌱 I’m currently learning web development and Java 
 - 💞️ I’m looking to collaborate on my career.
 - 📫 Reach me at sasikumars0003@gmail.com
